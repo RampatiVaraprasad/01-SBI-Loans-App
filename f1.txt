@@ -9,3 +9,5 @@ public void m2(){
 }
 
 how are you 
+int i = 20;
+int j = 30;
