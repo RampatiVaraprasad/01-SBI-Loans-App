@@ -2,12 +2,13 @@ good mrng ....
 
 // 102 task
 
-public void m2(){
+public void m2() {
 
 // logic
 
 }
 
+<<<<<<< Updated upstream
 how are you @
 vara
 String name = "prasad"; 
@@ -15,3 +16,8 @@ int i = 20;
 int k = 100;
 int j = 30;
 String name = "vishnu";
+=======
+how are you 
+
+
+>>>>>>> Stashed changes
