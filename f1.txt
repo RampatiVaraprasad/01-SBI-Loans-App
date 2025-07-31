@@ -10,6 +10,7 @@ public void m2(){
 
 how are you @
 vara
+String name = "prasad"; 
 int i = 20;
 int k = 100;
 int j = 30;
