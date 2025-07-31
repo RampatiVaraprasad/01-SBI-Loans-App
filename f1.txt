@@ -1,3 +1,11 @@
 good mrng ....
 
+// 102 task
+
+public void m2(){
+
+// logic
+
+}
+
 how are you 
