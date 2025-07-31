@@ -17,6 +17,6 @@ int j = 30;
 String name = "vishnu";
 
 how are you 
-int a = 10;
+int g = 10;
 
 
