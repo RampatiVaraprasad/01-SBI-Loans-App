@@ -9,6 +9,7 @@ public void m2() {
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 how are you @
 vara
 String name = "prasad"; 
@@ -16,6 +17,11 @@ int i = 20;
 int k = 100;
 int j = 30;
 String name = "vishnu";
+=======
+how are you 
+
+
+>>>>>>> Stashed changes
 =======
 how are you 
 
