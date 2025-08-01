@@ -9,6 +9,10 @@ how are you @
 
 i am vara
 
+int x = 22;
+int y = 33;
+
 how are you @
-int a = 10;
-int b = 20;
+
+
+String s1 = "joy";
