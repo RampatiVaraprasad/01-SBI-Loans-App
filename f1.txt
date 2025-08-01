@@ -8,13 +8,9 @@ public void m2() {
 
 }
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
->>>>>>> 555cf1715c7841361304d8d85e819e60d658c964
+
 how are you @
-vara
+
 String name = "prasad"; 
 int i = 20;
 int k = 100;
@@ -24,13 +20,9 @@ String name = "vishnu";
 how are you 
 int g = 10;
 
+int x = 11;
+int y = 22;
 
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
 how are you 
 
 
->>>>>>> Stashed changes
-=======
->>>>>>> 555cf1715c7841361304d8d85e819e60d658c964
