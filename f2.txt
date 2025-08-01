@@ -10,3 +10,4 @@ how are you @
 i am vara
 
 how are you @
+int a = 10;
