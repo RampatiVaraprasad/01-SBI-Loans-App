@@ -1,0 +1,10 @@
+String name = "prasad"; 
+int i = 20;
+int k = 100;
+
+String name = "vishnu";
+
+how are you 
+int g = 10;
+
+int d = 33;
